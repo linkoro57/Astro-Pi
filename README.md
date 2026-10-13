@@ -1,5 +1,5 @@
-# AstroPy – Source Code Storage
-A public repository dedicated to storing, organizing, and archiving all source code used for my AstroPy competitions.
+# AstroPi – Source Code Storage
+A public repository dedicated to storing, organizing, and archiving all source code used for my AstroPi competitions.
 
 ---
 
@@ -18,7 +18,7 @@ No public documentation is planned.
 ---
 
 ## 🔧 Contents
-- Python scripts used for AstroPy competitions  
+- Python scripts used for AstroPi competitions  
 - Work‑in‑progress versions and prototypes  
 - Experimental modules and utilities  
 - Quick tests and technical notes  
@@ -27,7 +27,7 @@ No public documentation is planned.
 ---
 
 ## 🎯 Repository Goal
-Provide a simple, centralized, and secure location for all my AstroPy competition code, ensuring easy access and long‑term preservation.
+Provide a simple, centralized, and secure location for all my AstroPi competition code, ensuring easy access and long‑term preservation.
 
 ---
 
