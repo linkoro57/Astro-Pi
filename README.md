@@ -1,10 +1,10 @@
 # AstroPy – Source Code Storage
-A private repository dedicated to storing, organizing, and archiving all source code used for my AstroPy competitions.
+A public repository dedicated to storing, organizing, and archiving all source code used for my AstroPy competitions.
 
 ---
 
 ## ✨ Status
-![Visibility](https://img.shields.io/badge/visibility-private-red?style=for-the-badge)
+![Visibility](https://img.shields.io/badge/visibility-public-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/maintained-yes-success?style=for-the-badge)
 ![Purpose](https://img.shields.io/badge/purpose-code_storage-yellow?style=for-the-badge)
@@ -41,7 +41,6 @@ Primarily built with Python 3.x, including:
 ---
 
 ## 📄 License
-This repository is private.  
 No public license is applied.
 
 ---
