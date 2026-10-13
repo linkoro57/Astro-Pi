@@ -53,4 +53,4 @@ This repository is strictly personal.
 
 ## 📦 Repository
 Public GitHub repository:  
-https://github.com/linkoro57/Astro-Py
+https://github.com/linkoro57/Astro-Pi
